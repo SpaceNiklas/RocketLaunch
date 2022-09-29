@@ -1,0 +1,7 @@
+name: RocketLaunch
+version: '1.0'
+main: com.spaceniklas.rocketlaunch.Rocketlaunch
+api-version: 1.19
+authors: [ SpaceNiklas ]
+description: If you right click holding a rocket you are set FLYING!
+website: www.spaceniklas.com
